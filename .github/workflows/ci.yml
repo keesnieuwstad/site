@@ -1,18 +1,12 @@
-name: 
-ci
- 
+name: ci
 on:
   push:
     branches:
-      - 
-master
- 
-      - 
-main
+      - master
+      - main
 
 permissions:
-  contents: 
-write
+  contents: write
 
 jobs:
   deploy:
@@ -31,4 +25,3 @@ jobs:
             mkdocs-material-
       - run: pip install mkdocs-material
       - run: mkdocs gh-deploy --force
-
