@@ -1,3 +1,3 @@
-# Welcome op de website
+# Welkom
 
-Welkom! Mogelijk komt hier ooit meer content te staan.
+Mogelijk komt hier ooit meer content te staan.
