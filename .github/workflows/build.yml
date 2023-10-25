@@ -7,7 +7,6 @@ on:
       - main
 
 env:
-  NODE_VERSION: 18.x
   PYTHON_VERSION: '3.10'
 
 permissions:
